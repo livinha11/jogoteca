@@ -4,7 +4,7 @@
  <p>Esse repositório possui um site. Espero que gostem ❤️</p>
  
  
- ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-Pronto-green)
+ ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-Finalizado-green)
 
 
  # :hammer: Funcionalidades do projeto
